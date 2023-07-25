@@ -13,7 +13,7 @@
 
         <q-toolbar-title> Prueba Tecnica - Halterofilia </q-toolbar-title>
 
-        <div>v1</div>
+        <div>v2</div>
       </q-toolbar>
     </q-header>
 
